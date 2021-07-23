@@ -6,4 +6,5 @@ Pipeline to process a set of multiwavelength observations from the DustPedia arc
 
 In order to run the pipeline, the following prerequisits are necessary to install:
 
-* **Convolution:** Download the convolution kernels from [https://www.astro.princeton.edu/~draine/Kernels/]
+* Download the `pipelin` folder on your computer.
+* **Convolution kernels:** Download the convolution kernels from https://www.astro.princeton.edu/~draine/Kernels/
