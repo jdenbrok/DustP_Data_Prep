@@ -1,0 +1,12 @@
+# column 1: name    
+# column 2: R.A. center [decimal degrees J2000]
+# column 3: Dec. center [decimal degrees J2000]
+# column 4: size Trim R.A [arcmin]
+# column 5: size Trim Decl. [arcmin]
+# column 6: distance [Mpc]
+# column 7: inclination [deg] (LEDA)
+# column 8: position angle [deg] (LEDA)
+# column 9: radius 25th magnitude isophote [arcmin]
+# column 10: redshift
+NGC5194,	202.4696292,	47.1951722,	10, 	12, 	8.0, 	20.0,	172., 	3.88, 	0.00155 		
+
