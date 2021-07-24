@@ -8,7 +8,7 @@ In order to run the pipeline, the following prerequisits are necessary to instal
 
 * Download the `pipeline` folder on your computer.
 * **Convolution kernels:** Download the convolution kernels from https://www.astro.princeton.edu/~draine/Kernels/
-* **Convolution Script:** In order to apply the kernels from Aniano 2011, download the following script from https://github.com/hsalas/convolution/blob/master/convolve_image.py. Rename it to `convolve_aniano.py` and store it in the `pipeline` folder.
+* **Convolution Script:** In order to apply the kernels from Aniano 2011, download the following script from https://github.com/hsalas/convolution/blob/master/convolve_image.py and store it in the `pipeline` folder.
 * **DustPedia Data:** Download the relevant fits files from http://dustpedia.astro.noa.gr/
 
 

@@ -10,7 +10,7 @@ import pandas as pd
 from os import path
 
 #import script Aniano convolution
-import convolve_aniano as ca
+import convolve_image as ca
 
 
 
